@@ -1,6 +1,4 @@
-export const runtime = "edge";
-
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+﻿import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
 type Team = { name: string; w: number; l: number; t: number; pct: string; pf: number; pa: number; streak: string; commanders?: boolean };

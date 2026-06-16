@@ -1,6 +1,4 @@
-export const runtime = "edge";
-
-import Link from "next/link";
+﻿import Link from "next/link";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
